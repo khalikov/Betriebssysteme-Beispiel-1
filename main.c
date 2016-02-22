@@ -4,4 +4,5 @@
 int main(void) {
   printf("Hello\n");
   printf("%d\n", mul(2, 3));
+  printf("Hello\n");
 }
